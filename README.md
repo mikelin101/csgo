@@ -1,7 +1,7 @@
 # csgo
 PC: `\"Program Files (x86)"\Steam\userdata\<Steam ID>\730\local\cfg`
 
-Disable XBox DVR: https://support.steampowered.com/kb_article.php?ref=6239-DZCB-8600&l=italian
+Disable XBox DVR: https://support.steampowered.com/kb_article.php?ref=6239-DZCB-8600
 
 Mac: `~/Library/Application\ Support/Steam/userdata/<Steam ID>/730/local/cfg`
 
