@@ -11,6 +11,8 @@ Launch options: `-novid`
 
 Steam:
 
+Deauthorize all other devices: https://store.steampowered.com/twofactor/manage
+
 Friends -> Automatically sign into Friends when I start Steam -> Uncheck
 
 In-Game -> Overlay shortcut keys -> F11
