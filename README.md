@@ -26,3 +26,5 @@ Interface -> Set Taskbar Preferences -> Uncheck Store, Community, Big Picture, S
 [List of CS:GO Cvars](https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars)
 
 [Command Line Options](https://developer.valvesoftware.com/wiki/Command_Line_Options)
+
+[cfg](https://developer.valvesoftware.com/wiki/Cfg)
