@@ -11,7 +11,7 @@ Launch options: `-novid`
 
 Steam:
 
-Deauthorize all other devices: https://store.steampowered.com/twofactor/manage
+[Deauthorize all other devices](https://store.steampowered.com/twofactor/manage)
 
 Friends -> Automatically sign into Friends when I start Steam -> Uncheck
 
