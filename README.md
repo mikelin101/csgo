@@ -24,4 +24,5 @@ Interface -> Notify me about additions or changes to my games, new releases, and
 Interface -> Set Taskbar Preferences -> Uncheck Store, Community, Big Picture, Steam VR
 
 [List of CS:GO Cvars](https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars)
+
 [Command Line Options](https://developer.valvesoftware.com/wiki/Command_Line_Options)
