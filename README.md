@@ -8,6 +8,9 @@ Mac: `~/Library/Application\ Support/Steam/userdata/<Steam ID>/730/local/cfg`
 
 Launch options: `-novid`
 
+[Video settings](http://steamcommunity.com/sharedfiles/filedetails/?id=1323979967)
+
+
 
 Steam:
 
