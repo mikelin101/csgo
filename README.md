@@ -30,3 +30,15 @@ Interface -> Set Taskbar Preferences -> Uncheck Store, Community, Big Picture, S
 [Command Line Options](https://developer.valvesoftware.com/wiki/Command_Line_Options)
 
 [cfg](https://developer.valvesoftware.com/wiki/Cfg)
+
+NVIDIA Control Panel -> Manage 3D Settings -> Program Settings -> Counter-strike: Global Offensive:
+
+Power management mode -> Prefer maximum performance
+
+Shader Cache -> Off
+
+Texture filtering - Antisotropic sample optimization -> On
+
+Texture filtering - Quality -> High performance
+
+Texture filtering - Trilinear optimization -> On
