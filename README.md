@@ -36,12 +36,12 @@ Interface -> Set Taskbar Preferences -> Uncheck Store, Community, Big Picture, S
 
 ~~NVIDIA Control Panel -> Manage 3D Settings -> Program Settings -> Counter-strike: Global Offensive:~~ Just use defaults
 
-~~Power management mode -> Prefer maximum performance
+~~Power management mode -> Prefer maximum performance~~
 
-~~Shader Cache -> Off
+~~Shader Cache -> Off~~
 
-~~Texture filtering - Antisotropic sample optimization -> On
+~~Texture filtering - Antisotropic sample optimization -> On~~
 
-~~Texture filtering - Quality -> High performance
+~~Texture filtering - Quality -> High performance~~
 
-~~Texture filtering - Trilinear optimization -> On
+~~Texture filtering - Trilinear optimization -> On~~
