@@ -34,7 +34,7 @@ Interface -> Set Taskbar Preferences -> Uncheck Store, Community, Big Picture, S
 
 [cfg](https://developer.valvesoftware.com/wiki/Cfg)
 
-~~NVIDIA Control Panel -> Manage 3D Settings -> Program Settings -> Counter-strike: Global Offensive:~~ Just use defaults
+NVIDIA Control Panel ~~-> Manage 3D Settings -> Program Settings -> Counter-strike: Global Offensive:~~ Just use defaults
 
 ~~Power management mode -> Prefer maximum performance~~
 
