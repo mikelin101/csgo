@@ -45,3 +45,8 @@ NVIDIA Control Panel ~~-> Manage 3D Settings -> Program Settings -> Counter-stri
 ~~Texture filtering - Quality -> High performance~~
 
 ~~Texture filtering - Trilinear optimization -> On~~
+
+
+[Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking)
+
+[Tickrate, Interpolation, Lag Compensation and You](http://team-dignitas.net/articles/blogs/CSGO/9512/tickrate-interpolation-lag-compensation-and-you-probably-not-the-reason-why-you-just-missed-that-shot)
