@@ -50,3 +50,5 @@ NVIDIA Control Panel ~~-> Manage 3D Settings -> Program Settings -> Counter-stri
 [Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking)
 
 [Tickrate, Interpolation, Lag Compensation and You](http://team-dignitas.net/articles/blogs/CSGO/9512/tickrate-interpolation-lag-compensation-and-you-probably-not-the-reason-why-you-just-missed-that-shot)
+
+[TF2 Network Graph](https://developer.valvesoftware.com/wiki/TF2_Network_Graph)
