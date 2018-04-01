@@ -52,3 +52,5 @@ Texture filtering - Trilinear optimization -> On
 [Tickrate, Interpolation, Lag Compensation and You](http://team-dignitas.net/articles/blogs/CSGO/9512/tickrate-interpolation-lag-compensation-and-you-probably-not-the-reason-why-you-just-missed-that-shot)
 
 [TF2 Network Graph](https://developer.valvesoftware.com/wiki/TF2_Network_Graph)
+
+[Netsettings for competitive play](http://clutchround.com/csgo-netsettings-for-competitive-play/)
