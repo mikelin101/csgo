@@ -54,3 +54,5 @@ Texture filtering - Trilinear optimization -> On
 [TF2 Network Graph](https://developer.valvesoftware.com/wiki/TF2_Network_Graph)
 
 [Netsettings for competitive play](http://clutchround.com/csgo-netsettings-for-competitive-play/)
+
+[Troubleshooting Network Connectivity](https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493)
