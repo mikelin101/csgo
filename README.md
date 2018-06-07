@@ -58,3 +58,5 @@ Texture filtering - Trilinear optimization -> On
 [Troubleshooting Network Connectivity](https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493)
 
 [Why does my EVGA graphics card run hot?](http://www.evga.com/support/faq/?f=57289)
+
+[Intel® Core™ i7-4790 Processor](https://ark.intel.com/products/80806/Intel-Core-i7-4790-Processor-8M-Cache-up-to-4_00-GHz)
