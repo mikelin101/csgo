@@ -56,3 +56,5 @@ Texture filtering - Trilinear optimization -> On
 [Netsettings for competitive play](http://clutchround.com/csgo-netsettings-for-competitive-play/)
 
 [Troubleshooting Network Connectivity](https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493)
+
+[Why does my EVGA graphics card run hot?](https://www.evga.com/support/faq/afmviewfaq.aspx?faqid=57289)
