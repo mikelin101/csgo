@@ -57,4 +57,4 @@ Texture filtering - Trilinear optimization -> On
 
 [Troubleshooting Network Connectivity](https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493)
 
-[Why does my EVGA graphics card run hot?](https://www.evga.com/support/faq/afmviewfaq.aspx?faqid=57289)
+[Why does my EVGA graphics card run hot?](http://www.evga.com/support/faq/?f=57289)
