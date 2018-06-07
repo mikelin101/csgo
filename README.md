@@ -62,3 +62,5 @@ A video card is not considered to be overheating until it exceeds 90°c under lo
 Maximum GPU Temperature 94°C - [GEFORCE GTX 1060](https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1060/)
 
 TCASE 72.72°C - [Intel® Core™ i7-4790 Processor](https://ark.intel.com/products/80806/Intel-Core-i7-4790-Processor-8M-Cache-up-to-4_00-GHz)
+
+[Video settings comparison and Tweaking Guide](http://clutchround.com/csgo-video-settings-comparison-and-tweaking-guide/)
