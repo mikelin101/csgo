@@ -6,7 +6,7 @@ PC: `\"Program Files (x86)"\Steam\userdata\<Steam ID>\730\local\cfg`
 Mac: `~/Library/Application\ Support/Steam/userdata/<Steam ID>/730/local/cfg`
 
 
-Launch options: `-novid`
+Launch options: `-novid -tickrate 128`
 
 [Video settings](http://steamcommunity.com/sharedfiles/filedetails/?id=1323979967)
 
