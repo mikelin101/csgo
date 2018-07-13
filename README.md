@@ -22,7 +22,7 @@ Friends -> When any Friend joins a game -> Display a notification -> Uncheck
 
 In-Game -> Overlay shortcut keys -> F12
 
-In-Game -> Screenshot shortcut keys -> F10
+In-Game -> Screenshot shortcut keys -> F11
 
 Interface -> Run Steam when my computer starts -> Uncheck
 
