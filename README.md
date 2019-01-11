@@ -45,6 +45,7 @@
 * Other
   * [Tickrate, Interpolation, Lag Compensation and You](http://team-dignitas.net/articles/blogs/CSGO/9512/tickrate-interpolation-lag-compensation-and-you-probably-not-the-reason-why-you-just-missed-that-shot)
   * [Netsettings for competitive play](http://clutchround.com/csgo-netsettings-for-competitive-play/)
-  * A video card is not considered to be overheating until it exceeds 90°c under load - [Why does my EVGA graphics card run hot?](http://www.evga.com/support/faq/?f=57289)
+* Hardware
   * Maximum GPU Temperature 94°C - [GEFORCE GTX 1060](https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1060/)
+  * A video card is not considered to be overheating until it exceeds 90°c under load - [Why does my EVGA graphics card run hot?](http://www.evga.com/support/faq/?f=57289)
   * TCASE 72.72°C - [Intel® Core™ i7-4790 Processor](https://ark.intel.com/products/80806/Intel-Core-i7-4790-Processor-8M-Cache-up-to-4_00-GHz)
