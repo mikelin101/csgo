@@ -35,22 +35,16 @@
   * Texture filtering - Quality -> High performance
   * Texture filtering - Trilinear optimization -> On
 
-[List of CS:GO Cvars](https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars)
-
-[cfg](https://developer.valvesoftware.com/wiki/Cfg)
-
-[Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking)
-
-[Tickrate, Interpolation, Lag Compensation and You](http://team-dignitas.net/articles/blogs/CSGO/9512/tickrate-interpolation-lag-compensation-and-you-probably-not-the-reason-why-you-just-missed-that-shot)
-
-[TF2 Network Graph](https://developer.valvesoftware.com/wiki/TF2_Network_Graph)
-
-[Netsettings for competitive play](http://clutchround.com/csgo-netsettings-for-competitive-play/)
-
-[Troubleshooting Network Connectivity](https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493)
-
-A video card is not considered to be overheating until it exceeds 90°c under load - [Why does my EVGA graphics card run hot?](http://www.evga.com/support/faq/?f=57289)
-
-Maximum GPU Temperature 94°C - [GEFORCE GTX 1060](https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1060/)
-
-TCASE 72.72°C - [Intel® Core™ i7-4790 Processor](https://ark.intel.com/products/80806/Intel-Core-i7-4790-Processor-8M-Cache-up-to-4_00-GHz)
+#### More info
+* Valve / Steam
+  * [List of CS:GO Cvars](https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars)
+  * [cfg](https://developer.valvesoftware.com/wiki/Cfg)
+  * [Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking)
+  * [TF2 Network Graph](https://developer.valvesoftware.com/wiki/TF2_Network_Graph)
+  * [Troubleshooting Network Connectivity](https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493)
+* Other
+  * [Tickrate, Interpolation, Lag Compensation and You](http://team-dignitas.net/articles/blogs/CSGO/9512/tickrate-interpolation-lag-compensation-and-you-probably-not-the-reason-why-you-just-missed-that-shot)
+  * [Netsettings for competitive play](http://clutchround.com/csgo-netsettings-for-competitive-play/)
+  * A video card is not considered to be overheating until it exceeds 90°c under load - [Why does my EVGA graphics card run hot?](http://www.evga.com/support/faq/?f=57289)
+  * Maximum GPU Temperature 94°C - [GEFORCE GTX 1060](https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1060/)
+  * TCASE 72.72°C - [Intel® Core™ i7-4790 Processor](https://ark.intel.com/products/80806/Intel-Core-i7-4790-Processor-8M-Cache-up-to-4_00-GHz)
