@@ -6,16 +6,13 @@
 #### Mac
 * `~/Library/Application\ Support/Steam/userdata/<Steam ID>/730/local/cfg`
 
-
 #### Launch options ([Command Line Options](https://developer.valvesoftware.com/wiki/Command_Line_Options))
 * `-novid -tickrate 128`
 
-#### Video settings
+#### Video settings ([Video settings comparison and Tweaking Guide](http://clutchround.com/csgo-video-settings-comparison-and-tweaking-guide/))
 * ~~[Video settings](http://steamcommunity.com/sharedfiles/filedetails/?id=1323979967)~~
 * [Video](https://steamcommunity.com/sharedfiles/filedetails/?id=1612814797)
 * [Advanced Video](https://steamcommunity.com/sharedfiles/filedetails/?id=1612814809)
-
-
 
 #### Steam
 * [Deauthorize all other devices](https://store.steampowered.com/twofactor/manage)
@@ -30,22 +27,17 @@
   * Notify me about additions or changes to my games, new releases, and upcoming releases -> Uncheck
   * Set Taskbar Preferences -> Uncheck Store, Community, Big Picture, Steam VR
 
+#### NVIDIA Control Panel
+* Manage 3D Settings -> Program Settings -> Counter-strike: Global Offensive
+  * Power management mode -> Prefer maximum performance
+  * ~~Shader Cache -> Off~~
+  * Texture filtering - Antisotropic sample optimization -> On
+  * Texture filtering - Quality -> High performance
+  * Texture filtering - Trilinear optimization -> On
+
 [List of CS:GO Cvars](https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars)
 
 [cfg](https://developer.valvesoftware.com/wiki/Cfg)
-
-NVIDIA Control Panel -> Manage 3D Settings -> Program Settings -> Counter-strike: Global Offensive:
-
-Power management mode -> Prefer maximum performance
-
-~~Shader Cache -> Off~~
-
-Texture filtering - Antisotropic sample optimization -> On
-
-Texture filtering - Quality -> High performance
-
-Texture filtering - Trilinear optimization -> On
-
 
 [Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking)
 
@@ -62,5 +54,3 @@ A video card is not considered to be overheating until it exceeds 90°c under lo
 Maximum GPU Temperature 94°C - [GEFORCE GTX 1060](https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1060/)
 
 TCASE 72.72°C - [Intel® Core™ i7-4790 Processor](https://ark.intel.com/products/80806/Intel-Core-i7-4790-Processor-8M-Cache-up-to-4_00-GHz)
-
-[Video settings comparison and Tweaking Guide](http://clutchround.com/csgo-video-settings-comparison-and-tweaking-guide/)
