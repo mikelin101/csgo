@@ -11,8 +11,8 @@
 
 #### Video settings ([Video settings comparison and Tweaking Guide](http://clutchround.com/csgo-video-settings-comparison-and-tweaking-guide/))
 * ~~[Video settings](http://steamcommunity.com/sharedfiles/filedetails/?id=1323979967)~~
-* [Video](https://steamcommunity.com/sharedfiles/filedetails/?id=1612814797)
-* [Advanced Video](https://steamcommunity.com/sharedfiles/filedetails/?id=1612814809)
+* [Video](https://steamcommunity.com/sharedfiles/filedetails/?id=1622264958)
+* [Advanced Video](https://steamcommunity.com/sharedfiles/filedetails/?id=1622264971)
 
 #### Steam
 * [Deauthorize all other devices](https://store.steampowered.com/twofactor/manage)
