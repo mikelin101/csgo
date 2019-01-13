@@ -7,7 +7,7 @@
 * `~/Library/Application\ Support/Steam/userdata/<Steam ID>/730/local/cfg`
 
 #### Launch options ([Command Line Options](https://developer.valvesoftware.com/wiki/Command_Line_Options))
-* `-novid -tickrate 128`
+* `-novid`~~`-tickrate 128`~~
 
 #### Video settings ([Video settings comparison and Tweaking Guide](http://clutchround.com/csgo-video-settings-comparison-and-tweaking-guide/))
 * ~~[Video settings](http://steamcommunity.com/sharedfiles/filedetails/?id=1323979967)~~
