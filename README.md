@@ -2,6 +2,7 @@
 #### PC
 * `\"Program Files (x86)"\Steam\userdata\<Steam ID>\730\local\cfg`
 * [Disable XBox DVR](https://support.steampowered.com/kb_article.php?ref=6239-DZCB-8600)
+* [Tips to improve PC performance in Windows 10](https://support.microsoft.com/en-us/help/4002019/windows-10-improve-pc-performance)
 
 #### Mac
 * `~/Library/Application\ Support/Steam/userdata/<Steam ID>/730/local/cfg`
